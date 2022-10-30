@@ -21,8 +21,17 @@ Criado sistema de **e-commerce** para a _empresa X_
 
 [Google](https://www.google.com/)
 
+### Código soma
+
 ``` ruby
 
 a + b = c
 
 ```
+
+### Listas de Tarefas a fazer:
+
+[x] Área de membros
+[ ] Integração com outros pagamentos
+[ ] sistema de bônus
+[ ] CSS do rodapé
