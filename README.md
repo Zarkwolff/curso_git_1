@@ -16,3 +16,7 @@ Criado sistema de **e-commerce** para a _empresa X_
 #### Imagem
 
 ![Logo Ruby](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png)
+
+#### Links Interessantes
+
+[Google](https://www.google.com/)
