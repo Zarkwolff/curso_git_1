@@ -20,3 +20,9 @@ Criado sistema de **e-commerce** para a _empresa X_
 #### Links Interessantes
 
 [Google](https://www.google.com/)
+
+``` ruby
+
+a + b = c
+
+```
